@@ -94,8 +94,11 @@ O gráfico de resíduos mostra os resíduos (as diferenças entre os valores pre
 O gráfico predito_true compara os valores previstos com os valores verdadeiros.
 
 Os 2 passos abaixo são importantes:
+
 1 - Implantar e testar o modelo
+
 2 - Testar o serviço implantado
 
 Consultar documentação de referência:
+
 Referência: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
